@@ -1,0 +1,11 @@
+*.pkl
+*.zip
+
+__pycache__/
+runs/
+data/
+checkpoints/
+models/
+pretrain_models/
+expert_data/
+plt/
